@@ -17,7 +17,13 @@
     font-family: mulish;
     color: #0C1F3F;
 }
-
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 9;
+}
 .navbar-light .navbar-nav .nav-link {
     color: #0C1F3F;
     font-weight: 600;
